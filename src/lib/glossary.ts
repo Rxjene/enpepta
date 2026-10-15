@@ -1,0 +1,15 @@
+export const GLOSSARY = {
+  driver: "A pressure that pushes an industry to change. There are six: growth, security, government need, stability, technology and trust.",
+  job: "Something the industry must always do, whatever tools it uses. For banks: keeping money safe, lending, moving money, keeping records, following rules and being trusted.",
+  signal: "One piece of evidence about current pressure, such as a news report or a document, with its source link and date.",
+  unsourced: "A signal with no source link. It still counts, but at half weight.",
+  heatmap: "A grid of colours. Darker means more pressure. Rows are jobs, columns are the six drivers.",
+  stage: "Where the industry is in the usual pattern: expansion, then an incident, then a protective layer, then a rule.",
+  brier: "A standard score for probability forecasts. Lower is better; 0 is perfect. A forecast that gives every outcome equal odds scores 0.75 here.",
+  calibration: "A check on honesty about odds: when the forecast says 70%, does it happen about 70% of the time?",
+  backtest: "Testing the forecaster on the past: it only sees cases before a chosen year, and we compare its answer to what really happened next.",
+  cutoff: "The year the backtest pretends is 'now'. Nothing dated later is shown to the forecaster.",
+  lowEvidence: "Fewer than 5 comparable past cases exist, so the odds lean on the general pattern and the time window is widened.",
+  protectiveLayer: "A safety net built after an incident, such as emergency lending or deposit insurance, before or alongside a law.",
+  rowLevelSecurity: "A database rule that lets each person see only their own rows.",
+} as const;
