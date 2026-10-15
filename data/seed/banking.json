@@ -1,0 +1,197 @@
+{
+  "industry": "banking",
+  "jobs": [
+    "safekeeping",
+    "lending",
+    "moving value",
+    "record keeping",
+    "rules and oversight",
+    "trust"
+  ],
+  "cases": [
+    {
+      "year": -2000,
+      "approximate": true,
+      "job": "safekeeping",
+      "main_driver": "growth",
+      "supporting_drivers": [
+        "security"
+      ],
+      "stage": "expansion",
+      "what_created": "Temples and palaces in Mesopotamia stored grain and silver for others and lent against it.",
+      "source": "Homer, S. & Sylla, R., A History of Interest Rates, 4th ed. (Wiley, 2005), early chapters on Mesopotamia; dating is approximate."
+    },
+    {
+      "year": -1754,
+      "approximate": true,
+      "job": "rules and oversight",
+      "main_driver": "government",
+      "supporting_drivers": [
+        "trust"
+      ],
+      "stage": "rule",
+      "what_created": "Written laws on loans, interest limits and debt records (Code of Hammurabi).",
+      "source": "Code of Hammurabi, transl. L. W. King (1910), Yale Avalon Project; date of reign is approximate."
+    },
+    {
+      "year": 1397,
+      "approximate": false,
+      "job": "moving value",
+      "main_driver": "technology",
+      "supporting_drivers": [
+        "growth"
+      ],
+      "stage": "expansion",
+      "what_created": "Medici Bank: branch network across Europe using bills of exchange and double-entry bookkeeping.",
+      "source": "de Roover, R., The Rise and Decline of the Medici Bank, 1397-1494 (Harvard University Press, 1963)."
+    },
+    {
+      "year": 1694,
+      "approximate": false,
+      "job": "lending",
+      "main_driver": "government",
+      "supporting_drivers": [
+        "growth"
+      ],
+      "stage": "expansion",
+      "what_created": "Bank of England: a chartered bank created to lend money to the state and issue notes.",
+      "source": "Bank of England, 'Our history' (the Bank was founded by Royal Charter in 1694); Clapham, J., The Bank of England: A History (1944)."
+    },
+    {
+      "year": 1907,
+      "approximate": false,
+      "job": "safekeeping",
+      "main_driver": "stability",
+      "supporting_drivers": [
+        "trust"
+      ],
+      "stage": "incident",
+      "what_created": "Panic of 1907: runs on New York trust companies and a near-collapse of the banking system.",
+      "source": "Federal Reserve History, 'Panic of 1907'."
+    },
+    {
+      "year": 1907,
+      "approximate": false,
+      "job": "lending",
+      "main_driver": "stability",
+      "supporting_drivers": [
+        "trust"
+      ],
+      "stage": "protective_layer",
+      "what_created": "A private rescue led by J. P. Morgan and the New York clearing house lent emergency funds to stop the panic.",
+      "source": "Federal Reserve History, 'Panic of 1907'."
+    },
+    {
+      "year": 1913,
+      "approximate": false,
+      "job": "rules and oversight",
+      "main_driver": "stability",
+      "supporting_drivers": [
+        "government"
+      ],
+      "stage": "rule",
+      "what_created": "Federal Reserve Act: created the US central bank as lender of last resort.",
+      "source": "Federal Reserve History, 'Federal Reserve Act'."
+    },
+    {
+      "year": 1921,
+      "approximate": true,
+      "job": "lending",
+      "main_driver": "growth",
+      "supporting_drivers": [
+        "technology"
+      ],
+      "stage": "expansion",
+      "what_created": "1920s credit boom: the number of US banks peaked at roughly 30,000 and lending to stock buyers grew quickly.",
+      "source": "Friedman, M. & Schwartz, A., A Monetary History of the United States, 1867-1960 (Princeton, 1963); exact peak year is approximate."
+    },
+    {
+      "year": 1929,
+      "approximate": false,
+      "job": "safekeeping",
+      "main_driver": "stability",
+      "supporting_drivers": [
+        "trust",
+        "growth"
+      ],
+      "stage": "incident",
+      "what_created": "Stock market crash and a wave of bank failures through 1933.",
+      "source": "Friedman, M. & Schwartz, A., A Monetary History of the United States, 1867-1960 (Princeton, 1963)."
+    },
+    {
+      "year": 1933,
+      "approximate": false,
+      "job": "safekeeping",
+      "main_driver": "trust",
+      "supporting_drivers": [
+        "stability"
+      ],
+      "stage": "protective_layer",
+      "what_created": "National bank holiday and Emergency Banking Act: banks closed, inspected, then reopened.",
+      "source": "Federal Reserve History, 'Bank Holiday of 1933'."
+    },
+    {
+      "year": 1933,
+      "approximate": false,
+      "job": "rules and oversight",
+      "main_driver": "trust",
+      "supporting_drivers": [
+        "stability",
+        "government"
+      ],
+      "stage": "rule",
+      "what_created": "Banking Act of 1933 (Glass-Steagall): deposit insurance (FDIC) and separation of commercial and investment banking.",
+      "source": "Federal Reserve History, 'Banking Act of 1933, Glass-Steagall'."
+    },
+    {
+      "year": 2008,
+      "approximate": false,
+      "job": "lending",
+      "main_driver": "stability",
+      "supporting_drivers": [
+        "trust",
+        "growth"
+      ],
+      "stage": "incident",
+      "what_created": "Global financial crisis: Lehman Brothers failed and credit markets froze.",
+      "source": "Financial Crisis Inquiry Commission, Final Report (2011)."
+    },
+    {
+      "year": 2008,
+      "approximate": false,
+      "job": "safekeeping",
+      "main_driver": "stability",
+      "supporting_drivers": [
+        "government"
+      ],
+      "stage": "protective_layer",
+      "what_created": "Troubled Asset Relief Program (TARP): government capital injections into banks.",
+      "source": "Emergency Economic Stabilization Act of 2008 (Public Law 110-343), US Treasury."
+    },
+    {
+      "year": 2009,
+      "approximate": false,
+      "job": "moving value",
+      "main_driver": "technology",
+      "supporting_drivers": [
+        "trust"
+      ],
+      "stage": "expansion",
+      "what_created": "Bitcoin network launched: a way to move value without a bank in the middle.",
+      "source": "Nakamoto, S., 'Bitcoin: A Peer-to-Peer Electronic Cash System' (2008); first block mined January 2009."
+    },
+    {
+      "year": 2010,
+      "approximate": false,
+      "job": "rules and oversight",
+      "main_driver": "stability",
+      "supporting_drivers": [
+        "trust",
+        "government"
+      ],
+      "stage": "rule",
+      "what_created": "Dodd-Frank Act: new bank capital rules, a consumer protection bureau and resolution powers.",
+      "source": "Dodd-Frank Wall Street Reform and Consumer Protection Act, Public Law 111-203 (2010)."
+    }
+  ]
+}

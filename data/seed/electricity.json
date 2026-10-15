@@ -1,0 +1,124 @@
+{
+  "industry": "electricity",
+  "jobs": [
+    "generating power",
+    "delivering power",
+    "metering and billing",
+    "keeping supply reliable",
+    "rules and oversight",
+    "trust and fair pricing"
+  ],
+  "cases": [
+    {
+      "year": 1882,
+      "approximate": false,
+      "job": "generating power",
+      "main_driver": "technology",
+      "supporting_drivers": [
+        "growth"
+      ],
+      "stage": "expansion",
+      "what_created": "Edison's Pearl Street Station in New York began supplying electricity to customers.",
+      "source": "Hughes, T. P., Networks of Power: Electrification in Western Society, 1880-1930 (Johns Hopkins, 1983)."
+    },
+    {
+      "year": 1907,
+      "approximate": false,
+      "job": "rules and oversight",
+      "main_driver": "trust",
+      "supporting_drivers": [
+        "government",
+        "growth"
+      ],
+      "stage": "rule",
+      "what_created": "New York and Wisconsin set up state commissions to regulate utility rates and service.",
+      "source": "Hughes, T. P., Networks of Power (Johns Hopkins, 1983)."
+    },
+    {
+      "year": 1932,
+      "approximate": false,
+      "job": "trust and fair pricing",
+      "main_driver": "stability",
+      "supporting_drivers": [
+        "trust"
+      ],
+      "stage": "incident",
+      "what_created": "Insull utility holding-company empire collapsed, wiping out many small investors.",
+      "source": "McDonald, F., Insull (University of Chicago Press, 1962)."
+    },
+    {
+      "year": 1935,
+      "approximate": false,
+      "job": "rules and oversight",
+      "main_driver": "trust",
+      "supporting_drivers": [
+        "stability",
+        "government"
+      ],
+      "stage": "rule",
+      "what_created": "Public Utility Holding Company Act and Federal Power Act brought holding companies and interstate power under federal oversight.",
+      "source": "Public Utility Holding Company Act of 1935; Federal Power Act of 1935 (49 Stat. 803, 838)."
+    },
+    {
+      "year": 1935,
+      "approximate": false,
+      "job": "delivering power",
+      "main_driver": "government",
+      "supporting_drivers": [
+        "growth"
+      ],
+      "stage": "expansion",
+      "what_created": "Rural Electrification Administration financed power lines to farms that private utilities had skipped.",
+      "source": "Executive Order 7037 (1935); Rural Electrification Act of 1936."
+    },
+    {
+      "year": 1965,
+      "approximate": false,
+      "job": "keeping supply reliable",
+      "main_driver": "stability",
+      "supporting_drivers": [
+        "growth"
+      ],
+      "stage": "incident",
+      "what_created": "Northeast blackout left about 30 million people without power.",
+      "source": "Federal Power Commission, Prevention of Power Failures (1967)."
+    },
+    {
+      "year": 1968,
+      "approximate": false,
+      "job": "keeping supply reliable",
+      "main_driver": "stability",
+      "supporting_drivers": [
+        "government"
+      ],
+      "stage": "protective_layer",
+      "what_created": "Utilities formed the voluntary National Electric Reliability Council (now NERC).",
+      "source": "NERC, 'History of NERC'."
+    },
+    {
+      "year": 2003,
+      "approximate": false,
+      "job": "keeping supply reliable",
+      "main_driver": "stability",
+      "supporting_drivers": [
+        "technology",
+        "trust"
+      ],
+      "stage": "incident",
+      "what_created": "Northeast blackout affected about 50 million people in the US and Canada.",
+      "source": "US-Canada Power System Outage Task Force, Final Report on the August 14, 2003 Blackout (2004)."
+    },
+    {
+      "year": 2005,
+      "approximate": false,
+      "job": "rules and oversight",
+      "main_driver": "stability",
+      "supporting_drivers": [
+        "government"
+      ],
+      "stage": "rule",
+      "what_created": "Energy Policy Act of 2005 made reliability standards mandatory and enforceable.",
+      "source": "Energy Policy Act of 2005, Public Law 109-58, section 1211."
+    }
+  ]
+}

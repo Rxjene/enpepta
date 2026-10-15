@@ -1,0 +1,138 @@
+{
+  "industry": "telephone service",
+  "jobs": [
+    "connecting callers",
+    "switching and routing",
+    "billing and records",
+    "keeping lines reliable",
+    "rules and oversight",
+    "trust and privacy"
+  ],
+  "cases": [
+    {
+      "year": 1876,
+      "approximate": false,
+      "job": "connecting callers",
+      "main_driver": "technology",
+      "supporting_drivers": [
+        "growth"
+      ],
+      "stage": "expansion",
+      "what_created": "Telephone invented and patented by Alexander Graham Bell.",
+      "source": "US Patent No. 174,465 (Bell, 1876)."
+    },
+    {
+      "year": 1894,
+      "approximate": true,
+      "job": "connecting callers",
+      "main_driver": "growth",
+      "supporting_drivers": [
+        "technology"
+      ],
+      "stage": "expansion",
+      "what_created": "Bell's key patents expired and thousands of independent local telephone companies started.",
+      "source": "Brooks, J., Telephone: The First Hundred Years (Harper & Row, 1976); exact year of the surge is approximate."
+    },
+    {
+      "year": 1910,
+      "approximate": false,
+      "job": "rules and oversight",
+      "main_driver": "government",
+      "supporting_drivers": [
+        "trust"
+      ],
+      "stage": "rule",
+      "what_created": "Mann-Elkins Act put interstate telephone service under the Interstate Commerce Commission.",
+      "source": "Mann-Elkins Act of 1910 (36 Stat. 539)."
+    },
+    {
+      "year": 1913,
+      "approximate": false,
+      "job": "switching and routing",
+      "main_driver": "government",
+      "supporting_drivers": [
+        "growth"
+      ],
+      "stage": "protective_layer",
+      "what_created": "Kingsbury Commitment: AT&T agreed to let independents connect to its network after antitrust pressure.",
+      "source": "Brooks, J., Telephone: The First Hundred Years (Harper & Row, 1976)."
+    },
+    {
+      "year": 1934,
+      "approximate": false,
+      "job": "rules and oversight",
+      "main_driver": "government",
+      "supporting_drivers": [
+        "growth"
+      ],
+      "stage": "rule",
+      "what_created": "Communications Act of 1934 created the Federal Communications Commission.",
+      "source": "Communications Act of 1934 (48 Stat. 1064)."
+    },
+    {
+      "year": 1984,
+      "approximate": false,
+      "job": "rules and oversight",
+      "main_driver": "government",
+      "supporting_drivers": [
+        "technology",
+        "growth"
+      ],
+      "stage": "rule",
+      "what_created": "Break-up of AT&T into regional companies under a court-approved settlement.",
+      "source": "United States v. AT&T, Modified Final Judgment (D.D.C. 1982, effective 1984)."
+    },
+    {
+      "year": 1996,
+      "approximate": false,
+      "job": "connecting callers",
+      "main_driver": "technology",
+      "supporting_drivers": [
+        "government",
+        "growth"
+      ],
+      "stage": "rule",
+      "what_created": "Telecommunications Act of 1996 opened local phone markets to competition.",
+      "source": "Telecommunications Act of 1996, Public Law 104-104."
+    },
+    {
+      "year": 2018,
+      "approximate": true,
+      "job": "trust and privacy",
+      "main_driver": "trust",
+      "supporting_drivers": [
+        "security",
+        "technology"
+      ],
+      "stage": "incident",
+      "what_created": "Spoofed robocalls became the top consumer complaint to regulators.",
+      "source": "FCC Consumer Complaint Data Center; the FCC has listed unwanted calls as its top consumer complaint category. Year is approximate."
+    },
+    {
+      "year": 2019,
+      "approximate": false,
+      "job": "trust and privacy",
+      "main_driver": "trust",
+      "supporting_drivers": [
+        "security",
+        "government"
+      ],
+      "stage": "rule",
+      "what_created": "TRACED Act required carriers to authenticate caller ID.",
+      "source": "Pallone-Thune TRACED Act, Public Law 116-105 (2019)."
+    },
+    {
+      "year": 2021,
+      "approximate": false,
+      "job": "trust and privacy",
+      "main_driver": "security",
+      "supporting_drivers": [
+        "technology",
+        "trust"
+      ],
+      "stage": "protective_layer",
+      "what_created": "STIR/SHAKEN call-authentication technology required on major carrier networks.",
+      "source": "FCC, 'Combating Spoofed Robocalls with Caller ID Authentication'; June 30, 2021 deadline for large providers."
+    }
+  ]
+}

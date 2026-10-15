@@ -1,0 +1,214 @@
+{
+  "industry": "aviation safety",
+  "jobs": [
+    "flying safely",
+    "certifying aircraft and crews",
+    "air traffic control",
+    "investigating accidents",
+    "rules and oversight",
+    "passenger trust and security"
+  ],
+  "cases": [
+    {
+      "year": 1925,
+      "approximate": false,
+      "job": "flying safely",
+      "main_driver": "government",
+      "supporting_drivers": [
+        "growth"
+      ],
+      "stage": "expansion",
+      "what_created": "Kelly Air Mail Act moved US air mail to private carriers and started the commercial airline industry.",
+      "source": "Air Mail Act of 1925 (Kelly Act), 43 Stat. 805."
+    },
+    {
+      "year": 1926,
+      "approximate": false,
+      "job": "certifying aircraft and crews",
+      "main_driver": "growth",
+      "supporting_drivers": [
+        "government",
+        "trust"
+      ],
+      "stage": "rule",
+      "what_created": "Air Commerce Act: federal licensing of pilots and aircraft and airway markings.",
+      "source": "Air Commerce Act of 1926, 44 Stat. 568."
+    },
+    {
+      "year": 1935,
+      "approximate": false,
+      "job": "investigating accidents",
+      "main_driver": "trust",
+      "supporting_drivers": [
+        "stability"
+      ],
+      "stage": "incident",
+      "what_created": "Crash of TWA Flight 6 killed US Senator Bronson Cutting and led to a Senate investigation.",
+      "source": "Komons, N., Bonfires to Beacons: Federal Civil Aviation Policy under the Air Commerce Act, 1926-1938 (1978)."
+    },
+    {
+      "year": 1938,
+      "approximate": false,
+      "job": "rules and oversight",
+      "main_driver": "trust",
+      "supporting_drivers": [
+        "government",
+        "growth"
+      ],
+      "stage": "rule",
+      "what_created": "Civil Aeronautics Act created a federal authority for airline safety, routes and accident investigation.",
+      "source": "Civil Aeronautics Act of 1938, 52 Stat. 973."
+    },
+    {
+      "year": 1956,
+      "approximate": false,
+      "job": "air traffic control",
+      "main_driver": "stability",
+      "supporting_drivers": [
+        "growth",
+        "technology"
+      ],
+      "stage": "incident",
+      "what_created": "Mid-air collision over the Grand Canyon killed 128 people.",
+      "source": "FAA history, 'A Brief History of the FAA'; Civil Aeronautics Board accident report (1957)."
+    },
+    {
+      "year": 1958,
+      "approximate": false,
+      "job": "rules and oversight",
+      "main_driver": "stability",
+      "supporting_drivers": [
+        "technology",
+        "government"
+      ],
+      "stage": "rule",
+      "what_created": "Federal Aviation Act created the Federal Aviation Agency to run air traffic control and safety rules.",
+      "source": "Federal Aviation Act of 1958, Public Law 85-726."
+    },
+    {
+      "year": 1977,
+      "approximate": false,
+      "job": "air traffic control",
+      "main_driver": "stability",
+      "supporting_drivers": [
+        "growth"
+      ],
+      "stage": "incident",
+      "what_created": "Tenerife runway collision of two 747s killed 583 people, the deadliest accident in aviation history.",
+      "source": "Spanish Ministry of Transport and Communications, Report on the Tenerife accident (1978)."
+    },
+    {
+      "year": 1978,
+      "approximate": false,
+      "job": "flying safely",
+      "main_driver": "growth",
+      "supporting_drivers": [
+        "government"
+      ],
+      "stage": "expansion",
+      "what_created": "Airline Deregulation Act opened fares and routes to competition.",
+      "source": "Airline Deregulation Act of 1978, Public Law 95-504."
+    },
+    {
+      "year": 1981,
+      "approximate": true,
+      "job": "flying safely",
+      "main_driver": "stability",
+      "supporting_drivers": [
+        "technology"
+      ],
+      "stage": "protective_layer",
+      "what_created": "Airlines adopted crew resource management training after accidents caused by poor cockpit teamwork.",
+      "source": "NASA workshop 'Resource Management on the Flightdeck' (1979); United Airlines first CRM program (1981). Adoption date is approximate."
+    },
+    {
+      "year": 2001,
+      "approximate": false,
+      "job": "passenger trust and security",
+      "main_driver": "security",
+      "supporting_drivers": [
+        "trust",
+        "stability"
+      ],
+      "stage": "incident",
+      "what_created": "September 11 attacks used four hijacked airliners.",
+      "source": "National Commission on Terrorist Attacks Upon the United States, The 9/11 Commission Report (2004)."
+    },
+    {
+      "year": 2001,
+      "approximate": false,
+      "job": "passenger trust and security",
+      "main_driver": "security",
+      "supporting_drivers": [
+        "government",
+        "trust"
+      ],
+      "stage": "rule",
+      "what_created": "Aviation and Transportation Security Act created the Transportation Security Administration.",
+      "source": "Aviation and Transportation Security Act, Public Law 107-71 (November 2001)."
+    },
+    {
+      "year": 2009,
+      "approximate": false,
+      "job": "certifying aircraft and crews",
+      "main_driver": "trust",
+      "supporting_drivers": [
+        "stability"
+      ],
+      "stage": "incident",
+      "what_created": "Colgan Air Flight 3407 crash near Buffalo killed 50 people and exposed pilot training and fatigue gaps.",
+      "source": "NTSB, Aircraft Accident Report NTSB/AAR-10/01 (2010)."
+    },
+    {
+      "year": 2010,
+      "approximate": false,
+      "job": "certifying aircraft and crews",
+      "main_driver": "trust",
+      "supporting_drivers": [
+        "stability",
+        "government"
+      ],
+      "stage": "rule",
+      "what_created": "Airline Safety and Federal Aviation Administration Extension Act raised pilot qualification and training standards.",
+      "source": "Public Law 111-216 (August 2010)."
+    },
+    {
+      "year": 2019,
+      "approximate": false,
+      "job": "certifying aircraft and crews",
+      "main_driver": "trust",
+      "supporting_drivers": [
+        "stability",
+        "technology"
+      ],
+      "stage": "incident",
+      "what_created": "Boeing 737 MAX crashes (Lion Air 610, Ethiopian 302) killed 346 people.",
+      "source": "NTSB, 'Assumptions Used in the Safety Assessment Process and the Effects of Multiple Alerts and Indications on Pilot Performance' (2019)."
+    },
+    {
+      "year": 2019,
+      "approximate": false,
+      "job": "certifying aircraft and crews",
+      "main_driver": "trust",
+      "supporting_drivers": [
+        "stability"
+      ],
+      "stage": "protective_layer",
+      "what_created": "Worldwide grounding of the 737 MAX fleet.",
+      "source": "FAA emergency order of prohibition, March 13, 2019."
+    },
+    {
+      "year": 2020,
+      "approximate": false,
+      "job": "rules and oversight",
+      "main_driver": "trust",
+      "supporting_drivers": [
+        "stability",
+        "government"
+      ],
+      "stage": "rule",
+      "what_created": "Aircraft Certification, Safety, and Accountability Act reformed FAA certification oversight.",
+      "source": "Aircraft Certification, Safety, and Accountability Act, Division R of Public Law 116-260 (December 2020)."
+    }
+  ]
+}
